@@ -1,0 +1,10 @@
+workspace: e2-field-eng-west
+environment: production
+databricks:
+  host: https://e2-demo-field-eng.cloud.databricks.com
+  region: us-west
+  
+services:
+  - unity-catalog
+  - mcp-connections
+  - ai-agents
