@@ -1,0 +1,9 @@
+workspace: e2-field-eng-west
+profile: e2-field-eng-west
+created_by: Databricks UC Connection
+user: sultan.alawar@databricks.com
+timestamp: 20251031-232409
+
+settings:
+  environment: production
+  auto_deploy: true
