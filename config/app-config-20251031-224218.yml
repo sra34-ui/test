@@ -1,0 +1,5 @@
+application:
+  name: MyApp
+  version: 1.0.0
+  environment: production
+  created: 20251031-224218
