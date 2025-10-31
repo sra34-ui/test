@@ -1,0 +1,8 @@
+workspace: e2-field-eng-west
+profile: e2-field-eng-west
+created_by: UC Function
+timestamp: 20251031-231702
+
+settings:
+  environment: production
+  auto_deploy: true
