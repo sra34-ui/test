@@ -1,1 +1,0 @@
-{"actions":["create_catalog","create_schema","add_secrets"],"dataset":["quotes"],"domain":"claims","environment":"dev","notification_channel":"#data-claims","requires_pii_controls":true}
