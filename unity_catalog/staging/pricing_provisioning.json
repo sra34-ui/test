@@ -1,0 +1,1 @@
+{"actions":["create_catalog","create_schema"],"dataset":["transactions"],"domain":"pricing","environment":"staging","notification_channel":"#data-pricing","requires_pii_controls":false}
