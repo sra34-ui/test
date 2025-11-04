@@ -1,0 +1,10 @@
+actions:
+  - 'create_catalog'
+  - 'create_schema'
+  - 'grant_usage'
+dataset:
+  - 'claims from s3://raw/layer/claims'
+domain: 'customer_360'
+environment: 'staging'
+notification_channel: '#data-customer_360'
+requires_pii_controls: true
