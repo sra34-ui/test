@@ -1,0 +1,9 @@
+actions:
+  - 'create_catalog'
+  - 'create_schema'
+dataset:
+  - 'bookings from s3://raw/layer/bookings'
+domain: 'customer_360'
+environment: 'staging'
+notification_channel: '#data-customer_360'
+requires_pii_controls: true
