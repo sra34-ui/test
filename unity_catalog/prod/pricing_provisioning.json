@@ -1,0 +1,1 @@
+{"actions":["create_catalog","create_schema","add_secrets"],"dataset":["customers"],"domain":"pricing","environment":"prod","notification_channel":"#data-pricing","requires_pii_controls":true}
