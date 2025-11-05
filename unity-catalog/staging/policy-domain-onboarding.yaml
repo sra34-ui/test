@@ -1,0 +1,10 @@
+actions:
+  - 'create_catalog'
+  - 'create_schema'
+  - 'add_secrets'
+dataset:
+  - 'transactions from az://bronze/transactions'
+domain: 'policy'
+environment: 'staging'
+notification_channel: '#data-policy'
+requires_pii_controls: false
